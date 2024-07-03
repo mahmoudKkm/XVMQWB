@@ -1,0 +1,34 @@
+{
+    "name": "𝗦𝗼𝘂𝗿𝗰𝗲 𝐂𝐀𝐏𝐓𝐀𝐈𝐍",
+    "description": "سورس قبطان لصنع بوتات حمايه بجميع المميزات❤️",
+    "repository": "https://github.com/jsksbh",
+    "logo": "https://telegra.ph/file/988bef30bca1baaca1669.jpg",
+    "keywords": [
+    "python3",
+    "telegram",
+    "bot",
+    "mongodb",
+    "Group-Manager-bot",
+    "pyrogram"
+    ],
+    "website": "https://t.me/SOURCE_CAPTAIN",
+    "success_url": "https://t.me/VV_6ov",
+    "stack": "container",
+    "env": {
+        "TOKEN": {
+            "description": "ضع توكن بوتك  @BotFather",
+            "required": true
+        },
+        "SESSION": {
+            "description": "حط جلسة البايروجرام",
+            "required": true
+        },
+        "sudoers": {
+            "description": "حط ايدي مطور البوت",
+            "required": true
+        }
+    }
+}
+
+
+
